@@ -1,0 +1,52 @@
+
+---Downloaded files---
+The import files for: Joblook were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/haven
+Data file = C:\xampp\htdocs\haven/wp-content/uploads/2024/06/demo-content-import-file_2024-06-29__18-47-56.xml
+Widget file = C:\xampp\htdocs\haven/wp-content/uploads/2024/06/demo-widgets-import-file_2024-06-29__18-47-56.json
+Customizer file = C:\xampp\htdocs\haven/wp-content/uploads/2024/06/demo-customizer-import-file_2024-06-29__18-47-56.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import job_listing_category Content Writer
+[WARNING] Failed to import job_listing_category Customer
+[WARNING] Failed to import job_listing_category Data Science
+[WARNING] Failed to import job_listing_category Design
+[WARNING] Failed to import job_listing_category Development
+[WARNING] Failed to import job_listing_category Engineering
+[WARNING] Failed to import job_listing_category Finance
+[WARNING] Failed to import job_listing_category Marketing
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Joblook Footer Widget1 : 
+
+Text - About Company - Imported
+
+Joblook Footer Widget2 : 
+
+Navigation Menu - Links - Imported
+
+Joblook Footer Widget3 : 
+
+Text - Support - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
