@@ -165,7 +165,7 @@ ul.ays-wp-notice-answers{
     /*font-size: 40px;*/
 
     content: "";
-    background-image: url(../images/icons/icon-128x128.png);
+    background-image: url(https://saya32.github.io/Haven/wp-content/plugins/quiz-maker/admin/images/icons/icon-128x128.png);
     height: 30px;
     display: block;
     background-size: contain;
